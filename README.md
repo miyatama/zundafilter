@@ -27,3 +27,10 @@ make build
 ```shell
 echo "継ぎます" | ./bin/zundaFilter
 ```
+
+# attention
+
+file for test
+
++ `./data/convert.sh`
++ `./data/source.txt`
